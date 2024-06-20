@@ -1,0 +1,3 @@
+_type: "prompt"
+template: "What is the main skill of {pokemon}"
+input_variables: [ "pokemon" ]
